@@ -1,0 +1,26 @@
+
+body {
+	background: url(../img/grey_wash_wall.png);
+	font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size:50px;
+
+}
+
+h2 {
+	font-family: 'Noto Sans', sans-serif;
+	float:clear;
+}
+
+
+href {
+	float:left;
+}
+
+img {
+	border:none;
+	padding:none;
+}

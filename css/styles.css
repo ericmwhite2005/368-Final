@@ -6,13 +6,23 @@ body {
 }
 
 a {
+	
 	color:white;
 	text-decoration:none;
 }
+
+nav a:hover{
+	color:#997;
+}
+
+
 h1 {
-	font-family: 'Merriweather Sans', sans-serif;
-	font-size:100px;
-	color: #999;
+	background:url("../img/free_highres_texture_15.jpg");
+	border-radius:25px;
+	font-family: 'Roboto Slab', serif;
+	font-size:80px;
+	color: #000;
+	text-align:center;
 	
 	
 
@@ -26,21 +36,20 @@ h2 {
 
 
 
-
-
-
-	
-
-article {
-	float:left;
-}
-
 ul {
 	margin: 0;
 	list-style:none;
 }
 
 
+aside {
+	text-transform:uppercase;
+	float: left;
+	background:#999;
+	border-radius:20px;
+	text-align:center;
+	
+}
 
 
 

@@ -1,26 +1,53 @@
 
 body {
-	background: url(../img/grey_wash_wall.png);
+	background: url('../img/escheresque_ste.png');
 	font-family: 'Roboto Slab', serif;
+	color: #999;
 }
 
+a {
+	color:white;
+	text-decoration:none;
+}
 h1 {
 	font-family: 'Merriweather Sans', sans-serif;
-	font-size:50px;
+	font-size:100px;
+	color: #999;
+	
+	
 
 }
 
 h2 {
 	font-family: 'Noto Sans', sans-serif;
 	float:clear;
+	color: #999;
 }
 
 
-href {
+
+
+
+
+	
+
+article {
 	float:left;
 }
 
-img {
-	border:none;
-	padding:none;
+ul {
+	margin: 0;
+	list-style:none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
